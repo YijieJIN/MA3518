@@ -1,3 +1,2 @@
-# Hello-World
-This is a test repository.
-Hi, I am new in GitHub. I want to use GitHub to learn how to do a project!
+# MA3518
+This repository is used to share SAS code in MA3518 course.
