@@ -17,6 +17,6 @@ run;
 proc glm data = two;
 class gender school;
 model score = gender school gender*school;
-means gender school gender*school;
+means gender school gender*school / tukey lines;
 run;
  
